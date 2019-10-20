@@ -75,11 +75,11 @@ Font-Family 	:	'Open Sans', sans-serif;
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
-  background-color: #7b10ff;
+  background-color: #9bd7d0;
   color: #fff; }
 
 ::selection {
-  background-color: #7b10ff;
+  background-color: #9bd7d0;
   color: #fff; }
 
 ::-webkit-input-placeholder {
@@ -807,7 +807,7 @@ th {
 .version-blog #blog-owl .owl-nav .owl-next i:hover, .version1 .brands-section, .version3 .brands-section, .version1-1 .brands-section, .version8 .brands-section, .version-blog .pagination .page-item .page-link:focus, .version-blog .pagination .page-item.active .page-link,
 .version-blog .pagination .page-item:hover .page-link, .version-blog .details-body .post-links .next-post:hover i,
 .version-blog .details-body .post-links .prev-post:hover i, .version-blog .comment-section .comment .comment-btn:hover, .footer-area {
-  background-image: -moz-linear-gradient(110deg, #7b10ff 0%, #974fff 100%);
+  background-image: -moz-linear-gradient(110deg, #9bd7d0 0%, #974fff 100%);
   background-image: -webkit-linear-gradient(110deg, #7b10ff 0%, #974fff 100%);
   background-image: -ms-linear-gradient(110deg, #7b10ff 0%, #974fff 100%); }
 
