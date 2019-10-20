@@ -178,13 +178,16 @@ whitelist:
 ####################################
 ######  feature Section   ######
 ####################################
+feature_image_one: 'img/feature/i3.png'
+feature_title_one: 'Digital Textbooks'
+feature_description_one: 'Description 1 - showing? '
 
 feature_image_two: 'img/feature/i3.png'
-feature_title_two: 'LTI ready'
+feature_title_two: 'Reading Content'
 feature_description_two: ''
 
 feature_image_three: 'img/feature/i4.png'
-feature_title_three: 'Stand alone platform'
+feature_title_three: 'Multiple Publishers'
 feature_description_three: ''
 
 
