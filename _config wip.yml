@@ -1,4 +1,3 @@
-
 ####################################
 ######     Global start     ######
 ####################################
@@ -10,8 +9,8 @@ phone               : 00356 79000552
 tagline             : 'Octavo Education Supplies' 
 description: >- # this means to ignore newlines until "baseurl:"
   Octavo Education Description.
-baseurl             : "hardcore-murdock-1426a4.netlify.com" # the subpath of your site, e.g. /blog
-url                 : "https://hardcore-murdock-1426a4.netlify.com/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
+baseurl             : "" # the subpath of your site, e.g. /blog
+url                 : "http://127.0.0.1:4000/" #  7277783  the base hostname & protocol for your site, e.g. http://example.com
 twitter_username    : 
 github_username     :  
 favicon: 'img/favicon.png'
@@ -48,7 +47,7 @@ disqus:
 hero: 'product'
 
 # sass [ only one image ]
-hero_sass_name: 'We Made our <br> Software 100% Errorless'
+hero_sass_name: 'Sass <br> Software 100% Errorless'
 hero_sass_text: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected.'
 hero_sass_image: 'img/hero/hero-img.png'
 hero_sass_btn_one_link: '#'
@@ -57,7 +56,7 @@ hero_sass_btn_two_link: '#'
 hero_sass_btn_two_text: ' View Pricing '
 
 # saas_video [ video type mp4 ]
-hero_saas_video_name: 'We Made our <br> Software 100% Errorless' 
+hero_saas_video_name: 'Saas Video<br> Software 100% Errorless' 
 hero_saas_video_text: 'The first is a non technical method which requires the use of adware removal software.  Download free adware and spyware removal software and use advanced tools to help prevent  getting infected.'
 hero_saas_video_image: 'img/mockup.png'
 hero_saas_video_video: 'vdo/sass-bv.mp4'
@@ -65,21 +64,21 @@ hero_saas_video_btn_one_link: '#'
 hero_saas_video_btn_one_text:  'Browse free demo'
 
 # sass_background_image
-hero_sass_background_image_name: 'We Made our <br> Software 100% Errorless' 
+hero_sass_background_image_name: 'Sass Background Image> Software 100% Errorless' 
 hero_sass_background_image_text: 'The first is a non technical method which requires the use of adware removal software.  Download free adware and spyware removal software and use advanced tools to help prevent  getting infected.'
 hero_sass_background_image_image: 'img/mockup.png'
 hero_sass_background_image_btn_one_link: '#'
 hero_sass_background_image_btn_one_text:  'Browse free demo'
 
 # sass_fixed_image
-hero_saas_fixed_image_name: 'We Made our <br> Software 100% Errorless' 
+hero_saas_fixed_image_name: 'Sass Fixed Image <br> Software 100% Errorless' 
 hero_saas_fixed_image_text: 'The first is a non technical method which requires the use of adware removal software.  Download free adware and spyware removal software and use advanced tools to help prevent  getting infected.'
 hero_saas_fixed_image_image: 'img/mockup.png'
 hero_saas_fixed_image_btn_one_link: '#'
 hero_saas_fixed_image_btn_one_text:  'Browse free demo'
 
 # sass_slider
-hero_sass_slider_name: 'We Made our <br> Software 100% Errorless' 
+hero_sass_slider_name: 'Sass Slider <br> Software 100% Errorless' 
 hero_sass_slider_image: 'img/mockup.png'
 hero_sass_slider_btn_one_link: '#'
 hero_sass_slider_btn_one_text:  'Browse free demo'
@@ -90,13 +89,13 @@ hero_sass_slider:
 
 # product [ only one image ]
 hero_product_name: 'K12 Solutions <br> For a digital curriculum'
-hero_product_text: 'Octavo delivers your curriculum on any OS and Browser.'
+hero_product_text: 'Octavo delivers your curriculum on any OS and Browser '
 hero_product_image: 'img/hero/hero-img2.png'
 hero_product_btn_one_link: '#'
-hero_product_btn_one_text:  'Let us show you around'
+hero_product_btn_one_text:  'Request Walkthrough'
 
 # product_video [ video type mp4 ]
-hero_product_video_name: 'The most Creative <br> Theame ever in Business' 
+hero_product_video_name: 'CT Video <br> Theame ever in Business' 
 hero_product_video_text: 'The first is a non technical method which requires the use of adware removal software. ownload free adware and spyware removal'
 hero_product_video_image: 'img/iPhoneX.png'
 hero_product_video_video: 'vdo/app-bv.mp4'
@@ -104,21 +103,21 @@ hero_product_video_btn_one_link: '#'
 hero_product_video_btn_one_text:  'Browse free demo'
 
 # product_background_image
-hero_product_background_image_name: 'The most Creative <br> Theame ever in Business' 
+hero_product_background_image_name: 'CT Background Image <br> Theame ever in Business' 
 hero_product_background_image_text: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected.'
 hero_product_background_image_image: 'img/iPhoneX.png'
 hero_product_background_image_btn_one_link: '#'
 hero_product_background_image_btn_one_text:  'Browse free demo'
 
 # product_fixed_image
-hero_product_fixed_image_name: 'The most Creative <br> Theame ever in Business' 
+hero_product_fixed_image_name: 'K12 Solutions <br> For a digital curriculum' 
 hero_product_fixed_image_text: 'The first is a non technical method which requires the use of adware removal software.  Download free adware and spyware removal software and use advanced tools to help prevent  getting infected.'
 hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: '#'
-hero_product_fixed_image_btn_one_text:  'Browse free demo'
+hero_product_fixed_image_btn_one_text:  'Request a Demo'
 
 # product_slider
-hero_product_slider_name: 'The most Creative <br> Theame ever in Business' 
+hero_product_slider_name: 'CT Slider <br> Theame ever in Business' 
 hero_product_slider_text: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected.'
 hero_product_slider_image: 'img/iPhoneX.png'
 hero_product_slider_btn_one_link: '#'
@@ -179,13 +178,17 @@ whitelist:
 ######  feature Section   ######
 ####################################
 
+feature_image_one: 'img/feature/i1.png'
+feature_title_one: 'All the content from your favourite publishers'
+feature_description_one: 'description'
+
 feature_image_two: 'img/feature/i3.png'
 feature_title_two: 'LTI ready'
-feature_description_two: ''
+feature_description_two: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
 feature_image_three: 'img/feature/i4.png'
 feature_title_three: 'Stand alone platform'
-feature_description_three: ''
+feature_description_three: 'Some days a motivational quote can provide a quick pick-me-up for employees and even management.'
 
 
 ####################################
@@ -202,8 +205,8 @@ marketing_btn_link: '#'
 ####################################
 ######  Statistics Section    ######
 ####################################
-statistics_title: 'We glow with Our Statistics'
-statistics_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
+statistics_title: 'Octavo is a true one stop shop'
+statistics_description: 'Irrespective of whether you want to deploy a literacy programme or indeed all your curriculum; Octavo is the only solution you'll need.'
 statistics_image: 'img/title-icon.png'
 
 # main big image
@@ -242,7 +245,7 @@ cta_btn_text_two: 'Signup'
 ####################################
 ######    Social Section      ######
 ####################################
-social_title: 'Manage Social Network with Our Managing Toolkit'
+social_title: 'WTF Section'
 social_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected. Spyware scan review is a free service for anyone interested in downloading spyware/adware removal software. Our adware remover is the most trusted.'
 social_image: 'img/social-img.png'
 social_button_text: 'Browse free demo'
@@ -498,7 +501,7 @@ contact_address: 'Los Angeles, United States'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'About 64% of all on-line teens say that do things online that they wouldn’t want their parents to know about. 11% of all adult internet user visit websites.'
+footer_description: 'Changed About us text'
 
 footer_resources_link_heading: 'Resources'
 footer_resources_link_one_text: 'Guides'
