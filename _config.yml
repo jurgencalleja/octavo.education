@@ -243,57 +243,57 @@ cta_btn_link_two: '#'
 cta_btn_text_two: 'Signup'
 
 ####################################
-######    Social Section      ######
+######    Removed     ######
 ####################################
-social_title: 'Manage Social Network with Our Managing Toolkit'
-social_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected. Spyware scan review is a free service for anyone interested in downloading spyware/adware removal software. Our adware remover is the most trusted.'
-social_image: 'img/social-img.png'
-social_button_text: 'Browse free demo'
-social_button_link: '#'
+#social_title: 'Manage Social Network with Our Managing Toolkit'
+#social_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected. Spyware scan review is a free service for anyone interested in downloading spyware/adware removal software. Our adware remover is the most trusted.'
+#social_image: 'img/social-img.png'
+#social_button_text: 'Browse free demo'
+#social_button_link: '#'
 
 
 #####################################
-########## Pricing Tables ###########
+########## Removed Pricing Tables ###########
 #####################################
-pricing-table-title: 'Select your Best Pricing'
-pricing-table-description: "The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected. "
+#pricing-table-title: 'Select your Best Pricing'
+#pricing-table-description: "The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected. "
 
 # Personal Plan
-plan-starter-name: starter
-plan-starter-tagline: Small business holders
-plan-starter-price: '<span>£29</span>/mo'
-plan-starter-offer-line-1-info:  2 User permission
-plan-starter-offer-line-2-info:  Customization Allowed 
-plan-starter-offer-line-3-info:  Social media tool Enabled 
-plan-starter-offer-line-4-info:  No Online Support 
-plan-starter-offer-line-5-info:  6 Months Backup 
-plan-starter-url: '#'
-plan-starter-btn_text: 'Get Started'
+#plan-starter-name: starter
+#plan-starter-tagline: Small business holders
+#plan-starter-price: '<span>£29</span>/mo'
+#plan-starter-offer-line-1-info:  2 User permission
+#plan-starter-offer-line-2-info:  Customization Allowed 
+#plan-starter-offer-line-3-info:  Social media tool Enabled 
+#plan-starter-offer-line-4-info:  No Online Support 
+#plan-starter-offer-line-5-info:  6 Months Backup 
+#plan-starter-url: '#'
+#plan-starter-btn_text: 'Get Started'
 
 # Team Plan
-plan-standard-name: standard
-plan-standard-tagline: Small business holders
-plan-standard-price: '<span>£49</span>/mo'
-plan-standard-offer-line-1-info: 2 User permission 
-plan-standard-offer-line-2-info: Customization Allowed 
-plan-standard-offer-line-3-info: Social media tool Enabled 
-plan-standard-offer-line-4-info: No Online Support 
-plan-standard-offer-line-5-info:  6 Months Backup 
-plan-standard-url: '#'
-plan-standard-btn_text: 'Get Started'
+#plan-standard-name: standard
+#plan-standard-tagline: Small business holders
+#plan-standard-price: '<span>£49</span>/mo'
+#plan-standard-offer-line-1-info: 2 User permission 
+#plan-standard-offer-line-2-info: Customization Allowed 
+#plan-standard-offer-line-3-info: Social media tool Enabled 
+#plan-standard-offer-line-4-info: No Online Support 
+#plan-standard-offer-line-5-info:  6 Months Backup 
+#plan-standard-url: '#'
+#plan-standard-btn_text: 'Get Started'
 
 
 # business Plan
-plan-business-name: premium
-plan-business-tagline: Small business holders
-plan-business-price: '<span>£99</span>/mo'
-plan-business-offer-line-1-info: 2 User permission 
-plan-business-offer-line-2-info: Customization Allowed 
-plan-business-offer-line-3-info: Social media tool Enabled 
-plan-business-offer-line-4-info: No Online Support 
-plan-personal-offer-line-5-info: 6 Months Backup 
-plan-business-url: '#'
-plan-business-btn_text: 'Get Started'
+#plan-business-name: premium
+#plan-business-tagline: Small business holders
+#plan-business-price: '<span>£99</span>/mo'
+#plan-business-offer-line-1-info: 2 User permission 
+#plan-business-offer-line-2-info: Customization Allowed 
+#plan-business-offer-line-3-info: Social media tool Enabled 
+#plan-business-offer-line-4-info: No Online Support 
+#plan-personal-offer-line-5-info: 6 Months Backup 
+#plan-business-url: '#'
+#plan-business-btn_text: 'Get Started'
 
 
 
@@ -302,7 +302,7 @@ plan-business-btn_text: 'Get Started'
 ########## Unique Feature ###########
 #####################################
 
-unique_feature_title: 'Features that make us Stand Out'
+unique_feature_title: 'Why teachers and school administrators love Octavo'
 unique_feature_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
 unique_feature_image: 'img/title-icon.png' 
 
