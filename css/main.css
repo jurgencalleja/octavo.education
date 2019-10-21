@@ -807,9 +807,9 @@ th {
 .version-blog #blog-owl .owl-nav .owl-next i:hover, .version1 .brands-section, .version3 .brands-section, .version1-1 .brands-section, .version8 .brands-section, .version-blog .pagination .page-item .page-link:focus, .version-blog .pagination .page-item.active .page-link,
 .version-blog .pagination .page-item:hover .page-link, .version-blog .details-body .post-links .next-post:hover i,
 .version-blog .details-body .post-links .prev-post:hover i, .version-blog .comment-section .comment .comment-btn:hover, .footer-area {
-  background-image: -moz-linear-gradient(110deg, #9bd7d0 0%, #20569c 100%);
-  background-image: -webkit-linear-gradient(110deg, #9bd7d0 0%, #20569c 100%);
-  background-image: -ms-linear-gradient(110deg, #9bd7d0 0%, #20569c 100%); }
+  background-image: -moz-linear-gradient(110deg, #9bd7d0 0%, #9bd7d0 100%);
+  background-image: -webkit-linear-gradient(110deg, #9bd7d0 0%, #9bd7d0 100%);
+  background-image: -ms-linear-gradient(110deg, #9bd7d0 0%, #9bd7d0 100%); }
 
 .d2-gradient-bg, .version1-1 .ct-btn, .version1-1 .ct-btn.active:hover, .version3 .ct-btn, .version3 .ct-btn.active:hover {
   background-image: -moz-linear-gradient(0deg, #5fb9fd 0%, #72e3a6 100%);
@@ -817,9 +817,9 @@ th {
   background-image: -ms-linear-gradient(0deg, #5fb9fd 0%, #72e3a6 100%); }
 
 .d3-gradient-bg, .gradient-bg2, .pr-btn2, .pr-btn2:hover, .single-price2 .price-top .overlay-bg, .accordian-tab-menu .nav-link.active {
-  background-image: -moz-linear-gradient(0deg, #2c00ff 0%, #9bd7d0 100%);
-  background-image: -webkit-linear-gradient(0deg, #2c00ff 0%, #9bd7d0 100%);
-  background-image: -ms-linear-gradient(0deg, #2c00ff 0%, #9bd7d0 100%); }
+  background-image: -moz-linear-gradient(0deg, #29AFA0 0%, #29AFA0 100%);
+  background-image: -webkit-linear-gradient(0deg, #29AFA0 0%, #29AFA0 100%);
+  background-image: -ms-linear-gradient(0deg, #29AFA0 0%, #29AFA0 100%); }
 
 .d4-gradient-bg, .gradient-bg4, .single-price4 .price-top .overlay-bg {
   background-image: -moz-linear-gradient(0deg, #9bd7d0 0%, #5a61ff 100%);
