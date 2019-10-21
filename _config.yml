@@ -501,27 +501,23 @@ contact_address: 'Los Angeles, United States'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'About 64% of all on-line teens say that do things online that they wouldn’t want their parents to know about. 11% of all adult internet user visit websites.'
+footer_description: 'Octavo is the single platform you need to deliver a truly digital curriculum.  It fits nicely with your printed resources as well as pre-existing technologies such as Learning Management Systems, School Management Systems, Identify Management (SSO).  On octavo you can find content from publishers as well as create your own custom curriculum for your classroom and school. '
 
-footer_resources_link_heading: 'Resources'
-footer_resources_link_one_text: 'Guides'
+footer_resources_link_heading: 'Services'
+footer_resources_link_one_text: 'Educators'
 footer_resources_link_one_link: '#'
-footer_resources_link_two_text: 'Research'
+footer_resources_link_two_text: 'Publishers'
 footer_resources_link_one_link: '#'
-footer_resources_link_three_text: 'Experts'
+footer_resources_link_three_text: 'Libraries'
 footer_resources_link_one_link: '#'
-footer_resources_link_four_text: 'Agencies'
+footer_resources_link_four_text: 'Retailers'
 footer_resources_link_one_link: '#'
 
 
-footer_features_link_heading: 'Features'
+footer_features_link_heading: 'Need help?'
 footer_features_link_one_text: 'Guides'
 footer_features_link_one_link: '#'
-footer_features_link_two_text: 'Research'
-footer_features_link_one_link: '#'
-footer_features_link_three_text: 'Experts'
-footer_features_link_one_link: '#'
-footer_features_link_four_text: 'Agencies'
+footer_features_link_two_text: 'Contact US'
 footer_features_link_one_link: '#'
 
 
