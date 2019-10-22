@@ -216,7 +216,7 @@ statistics_start_image: 'img/stat/stat-img.png'
 statistics_item_one_image: 'img/stat/s1.png'
 statistics_item_one_title: 'Build Custom Textbooks'
 statistics_item_one_link: '#'
-statistics_item_one_description: 'Educators are now able to build their own content and present it in the same look and feel as professional publisher\'\s content.'
+statistics_item_one_description: 'Educators are now able to build their own content and present it in the same look and feel as professional publisher content.'
 
 statistics_item_two_image: 'img/stat/s2.png'
 statistics_item_two_title: 'Sales Monitoring'
