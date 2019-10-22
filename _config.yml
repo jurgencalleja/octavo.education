@@ -492,9 +492,9 @@ blog-description: 'The first is a non technical method which requires the use of
 contact_title: 'Whenever You Need, Just Send a Message'
 contact_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
 contact_image: 'img/title-icon.png'
-contact_email: 'support@demo.com'
-contact_phone: '00 (440) 9865 562 9865'
-contact_address: 'Los Angeles, United States'
+contact_email: 'hi@octavo.education'
+contact_phone: '00 (356) ?'
+contact_address: 'San Gwann, Malta'
 
 #####################################
 ##########     footer      ###########
@@ -528,9 +528,8 @@ footer_features_link_one_link: '#'
 
 
 footer_facebook_link: 'https://www.facebook.com/Octavoapp/'
-footer_twitter_link: '#'
-footer_dribbble_link: '#'
-footer_behance_link: '#'
+footer_twitter_link: 'https://twitter.com/Octavoapp'
+
 
 mailchimp:
   user-id: 
