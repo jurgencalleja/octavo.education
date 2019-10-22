@@ -195,8 +195,8 @@ feature_description_three: 'Description 3 - showing?'
 ######  marketing Section   ######
 ####################################
 marketing_title: 'Digitise your Curriculum'
-marketing_description: 'Offering your learners an engaging digital curriculum has never been this simple.'
-marketing_image_one: '/img/marketing/d1.png'
+marketing_description: 'Offering your learners a measurable engaging digital curriculum has never been this simple.'
+marketing_image_one: '/img/marketing/measuresuccess2.png'
 marketing_image_two: '/img/marketing/measuresuccess.png'
 marketing_btn_text: 'Learn More'
 marketing_btn_link: '#'
@@ -205,8 +205,8 @@ marketing_btn_link: '#'
 ####################################
 ######  Statistics Section    ######
 ####################################
-statistics_title: 'We glow with Our Statistics'
-statistics_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
+statistics_title: 'Octavo makes teaching fun'
+statistics_description: 'Octavo places all the tools and resources you need at your finger tips'
 statistics_image: 'img/title-icon.png'
 
 # main big image
