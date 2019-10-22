@@ -197,8 +197,8 @@ feature_description_three: 'Description 3 - showing?'
 marketing_title: 'Digitise your Curriculum'
 marketing_description: 'Offering your learners an engaging digital curriculum has never been this simple.'
 marketing_image_one: '/img/marketing/d1.png'
-marketing_image_two: '/img/marketing/d2.png'
-marketing_btn_text: 'Browse free demo'
+marketing_image_two: '/img/marketing/measuresuccess.png'
+marketing_btn_text: 'Learn More'
 marketing_btn_link: '#'
 
 
