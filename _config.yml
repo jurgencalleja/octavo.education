@@ -385,15 +385,15 @@ testimonials:
 # Client
 - author: 'Emmanuel Grech'
   avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+  position: 'CIO, Ministry for Education and Employment, Malta'
+  quotes: 'Waiting on quote'
 
 
 # Client
-- author: 'Travor James'
+- author: 'Grazio Grixti'
   avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+  position: 'Director (Digital Literacy & Transveral Skills), Ministry for Education and Employment, Malta'
+  quotes: 'Waiting on quote'
 
 
 # Client
