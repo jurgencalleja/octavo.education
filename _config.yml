@@ -236,7 +236,7 @@ statistics_item_four_description: 'TXT'
 ####################################
 ######    cta Section      ######
 ####################################
-cta_title: "Don't take our word!<br> Create an Octavo account and start setting up your own school now!"
+cta_title: 'Create an Octavo account and start setting up your own school now!'
 cta_btn_link_one: '#'
 cta_btn_text_one: 'Learn How'
 cta_btn_link_two: '#'
@@ -302,8 +302,8 @@ cta_btn_text_two: 'Get Started'
 ########## Unique Feature ###########
 #####################################
 
-unique_feature_title: 'Why teachers and school administrators love Octavo'
-unique_feature_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
+unique_feature_title: 'Deplying Octavo in your school - A piece of cake!'
+unique_feature_description: 'Octavo was designed to offer the smoothest deployement and roll out experience possible.  Enrolling a school or a whole district takes no more than a couple of steps.'
 unique_feature_image: 'img/title-icon.png' 
 
 unique_feature_main_image_slider: 
@@ -311,12 +311,12 @@ unique_feature_main_image_slider:
   - image: 'img/carusel/c2.png'
   - image: 'img/carusel/c3.png'
 
-unique_feature_section_one_title: 'Certifications'
+unique_feature_section_one_title: 'LTI Ready'
 unique_feature_section_one_description: 'We all live in an age that belongs to the young at heart. Life that is becoming extremely fast, day to day, also asks us to remain.'
 unique_feature_section_one_image: http://127.0.0.1:4000/img/feature/f1.png
 unique_feature_section_one_link: '#'
 
-unique_feature_section_two_title: 'Page Builder'
+unique_feature_section_two_title: 'BYOD Friendly'
 unique_feature_section_two_description: 'Vera sought out counseling with me because her doctor advised her to discover the emotional causes of her chronic fatigue.'
 unique_feature_section_two_image: http://127.0.0.1:4000/img/feature/f2.png
 unique_feature_section_two_link: '#'
@@ -383,7 +383,7 @@ bands_slider:
 testimonials:
 
 # Client
-- author: 'Travor James'
+- author: 'Emmanuel Grech'
   avatar: '/img/review/user.png'
   position: 'Head of Marketing, Apple Inc.'
   quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
