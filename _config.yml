@@ -205,7 +205,7 @@ marketing_btn_link: '#'
 ####################################
 ######  Statistics Section    ######
 ####################################
-statistics_title: 'Octavo makes learning fun'
+statistics_title: 'Octavo makes learning fun for both educator and learner'
 statistics_description: 'Octavo places all the tools and resources you need at your finger tips'
 statistics_image: 'img/title-icon.png'
 
@@ -214,9 +214,9 @@ statistics_start_image: 'img/stat/stat-img.png'
 
 # 4 section image
 statistics_item_one_image: 'img/stat/s1.png'
-statistics_item_one_title: 'Productivity'
+statistics_item_one_title: 'Build Custom Textbooks'
 statistics_item_one_link: '#'
-statistics_item_one_description: 'Making changes in your life is great and it is the way we grow and develop as people. Change is a constant.'
+statistics_item_one_description: 'Educators are now able to build their own content and present it in the same look and feel as professional publisher's content.'
 
 statistics_item_two_image: 'img/stat/s2.png'
 statistics_item_two_title: 'Sales Monitoring'
