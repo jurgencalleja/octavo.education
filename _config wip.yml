@@ -525,10 +525,8 @@ footer_features_link_four_text: 'Agencies'
 footer_features_link_one_link: '#'
 
 
-footer_facebook_link: '#'
-footer_twitter_link: '#'
-footer_dribbble_link: '#'
-footer_behance_link: '#'
+footer_facebook_link: 'https://www.facebook.com/Octavoapp/'
+footer_twitter_link: 'https://twitter.com/Octavoapp'
 
 mailchimp:
   user-id: 
