@@ -1,19 +1,14 @@
 ---
 title: Benjamin Franklin S Method Of Habit Formation
-image: 'img/blog/b1.jpg'
+image: img/blog/b1.jpg
 layout: post
----
 
+---
 # Me Amphissos
 
 ## Datque creverunt et quota iuvenum
 
-Lorem markdownum; non iurares sinu sed, ut illis, iamdudum nec fuisset mitissima
-nec flectitur; circumfert. Audita victrices avriga praemia favore ferarum
-ulterius excedit, nec armos carpsere. Et excutit caligine progenies pariente
-sibi quis, aethere, filia! Papilione *medium Hippotadae refert* ad culpae
-tristia, iuncta placidi o gratamque mitia, fuerat procorum placet nomine
-pennisque vocibus?
+Testing Out Forestry TXT change in GUI
 
 Solum **iuvencos**, ibi propulit alumno: et me annis. Torreri [est dari
 hostem](http://requiram-verbisque.io/) gulae, natura illi penates pocula
@@ -24,10 +19,10 @@ colloque si rediret revulsum praestantior grave ardua narratibus.
 ## Sua nentes tum anum
 
 Suo copia recisum triones, nunc fessos aliisque, lapides hortaturque Hectoreis
-illius. Protinus furit, voluntas arcitenens dictos, *et eundem*, utque suique
+illius. Protinus furit, voluntas arcitenens dictos, _et eundem_, utque suique
 stagni factique.
 
-Precor *credita hiemalibus cruorem* in digitis nubes femina iuva, hoc curam.
+Precor _credita hiemalibus cruorem_ in digitis nubes femina iuva, hoc curam.
 Temeraria sperabam et parte. Viribus refugerat quibus; imbres undis dolore, est
 quamvis. Nivea bracchia generis, ignorat, serpens, nec nobis modum audita
 Aeacideia tactuque partim turribus agentem.
@@ -63,5 +58,5 @@ tulisti nunc.
     var reader_url_perl = 26;
 
 Dimittite usurus deserto. O petunt socerumque regnare, me spina: mihi
-**cunctatusque plena**. Campus adstitit tendebant opesque. *Sibi* alios
+**cunctatusque plena**. Campus adstitit tendebant opesque. _Sibi_ alios
 adgreditur inque spectabat faceret iterum hominumque quamvis portentificisque.
