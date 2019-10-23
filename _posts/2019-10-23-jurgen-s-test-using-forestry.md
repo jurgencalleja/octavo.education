@@ -1,6 +1,6 @@
 ---
 title: Jurgen's Test using Forestry
-image: ''
+image: "/img/blog/b2.jpg"
 layout: post
 
 ---
