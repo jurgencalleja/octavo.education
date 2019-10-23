@@ -152,15 +152,13 @@ statistics_item_one_description: Educators are now able to build their own conte
 statistics_item_two_image: img/stat/s2.png
 statistics_item_two_title: Literacy Tools
 statistics_item_two_link: "#"
-statistics_item_two_description: TXT
+statistics_item_two_description: Educators are now able to build their own content
+  and present it in the same look and feel as professional publisher's content.
 statistics_item_three_image: img/stat/s2.png
 statistics_item_three_title: Differentiated Teaching
 statistics_item_three_link: "#"
 statistics_item_three_description: TXT
-statistics_item_four_image: img/stat/s4.png
-statistics_item_four_title: One click reports
-statistics_item_four_link: "#"
-statistics_item_four_description: TXT
+
 cta_title: Create an Octavo account and start setting up your own school now!
 cta_btn_link_one: "#"
 cta_btn_text_one: Learn How
