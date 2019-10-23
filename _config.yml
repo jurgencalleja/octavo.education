@@ -162,15 +162,14 @@ cta_btn_link_one: "#"
 cta_btn_text_one: Learn How
 cta_btn_link_two: "#"
 cta_btn_text_two: Get Started
-unique_feature_title: Deplying Octavo in your school - A piece of cake!
+unique_feature_title: Deploying Octavo in your school - A piece of cake!
 unique_feature_description: Octavo was designed to offer the smoothest deployement
   and roll out experience possible.  Enrolling a school or a whole district takes
   no more than a couple of steps.
 unique_feature_image: img/title-icon.png
 unique_feature_main_image_slider:
-- image: img/carusel/c1.png
-- image: img/carusel/c2.png
-- image: img/carusel/c3.png
+- image: img/carusel/deployoctavo.png
+
 unique_feature_section_one_title: LTI Ready
 unique_feature_section_one_description: We all live in an age that belongs to the
   young at heart. Life that is becoming extremely fast, day to day, also asks us to
