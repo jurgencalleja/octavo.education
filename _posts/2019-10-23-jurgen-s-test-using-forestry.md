@@ -1,7 +1,7 @@
 ---
 title: Jurgen's Test using Forestry
 image: ''
-layout: ''
+layout: post
 
 ---
 # ejja min hemm :)
