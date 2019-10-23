@@ -241,6 +241,13 @@ $(document).ready(function () {
         animateOut: 'fadeOut'
     });
 
+    $('.static-execution-image').owlCarousel({
+        items: 1,
+        loop: false,
+        margin: 30,
+        autoplay: false,
+    });
+
     $('.active-feature-carusel').owlCarousel({
         items: 1,
         loop: true,

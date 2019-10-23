@@ -167,7 +167,7 @@ unique_feature_description: Octavo was designed to offer the smoothest deployeme
   and roll out experience possible.  Enrolling a school or a whole district takes
   no more than a couple of steps.
 unique_feature_image: img/title-icon.png
-unique_feature_main_image_slider:
+unique_feature_main_image:
 - image: img/carusel/deployoctavo.png
 
 unique_feature_section_one_title: LTI Ready
