@@ -2806,6 +2806,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s; }
   .single-feature .icon span {
+    max size: 50px;
     padding: 23px;
     display: inline-block;
     background: #ffffff;
