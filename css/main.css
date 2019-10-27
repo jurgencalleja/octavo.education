@@ -2797,7 +2797,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     .feature-list {
       margin-top: 50px; } }
 
-.feature-list d-flex flex-row img.icon.img{
+.feature-list d-flex flex-row img {
 max-width: 22;
 max-height: auto;
 }      
