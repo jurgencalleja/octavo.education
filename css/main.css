@@ -1251,8 +1251,11 @@ th {
     font-weight: 500;
     color: #1e283c; }
   .single-stat p {
-    max-width: 120px;
+    max-width: 320px;
     margin-bottom: 0px; }
+  .single-stat img {
+      max-width: 120px;
+      margin-bottom: 0px; }
 
 @media (max-width: 991px) {
   .active-dash-carusel,
