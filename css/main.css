@@ -2801,7 +2801,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 max-width: 120px;
 max-height: auto;
 }      
-
+.feature-list svg {
+  max-width: 120px;
+  max-height: auto;
+  }  
 .single-feature {
   margin-top: 30px;
   border: 2px solid transparent;
