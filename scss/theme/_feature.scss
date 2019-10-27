@@ -40,7 +40,11 @@
 		}
 		p {
 			margin-bottom: 0px;
-		}
+        }
+        img {
+            max-width: 42px;
+            max-height: auto;
+        }
     }
     &:hover {
         background: #fff;
