@@ -121,13 +121,13 @@ whitelist:
 - jekyll-feed
 - jekyll-include-cache
 
-feature_image_one: img/feature/i3.png
+feature_image_one: img/feature/octavof/digitaltextbooks.svg
 feature_title_one: Digital Textbooks
 feature_description_one: 'Description 1 - showing? '
-feature_image_two: img/feature/i3.png
+feature_image_two: img/feature/octavof/readingcontent.svg
 feature_title_two: Reading Content
 feature_description_two: Description 2 - showing?
-feature_image_three: img/feature/i4.png
+feature_image_three: img/feature/octavof/multiplepub.svg
 feature_title_three: Multiple Publishers
 feature_description_three: Description 3 - showing?
 
