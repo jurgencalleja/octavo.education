@@ -481,6 +481,10 @@ mark,
   height: auto;
 }
 
+.img-featurecustom {
+  max-width: 42px;
+  height: auto;
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
