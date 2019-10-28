@@ -59,6 +59,9 @@
 <loc>http://localhost:4000/contact.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/education.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/features.html</loc>
 </url>
 <url>
@@ -69,6 +72,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/pricing.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/publishers.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/page2/</loc>
