@@ -85,9 +85,9 @@
 }
 
 .d4-gradient-bg {
-    background-image: -moz-linear-gradient(0deg, #9a88ff 0%, #5a61ff 100%);
-    background-image: -webkit-linear-gradient(0deg, #9a88ff 0%, #5a61ff 100%);
-    background-image: -ms-linear-gradient(0deg, #9a88ff 0%, #5a61ff 100%);
+    background-image: -moz-linear-gradient(0deg, #9bd7d0 0%,#20569c 100%);
+    background-image: -webkit-linear-gradient(0deg, #9bd7d0 0%, #20569c 100%);
+    background-image: -ms-linear-gradient(0deg, #9bd7d0 0%, #20569c 100%);
 }
 
 .v3-gradient-bg {
@@ -206,8 +206,8 @@
     border-top: 1px solid $aquablue-color;
 }
 
-.page-top-section {
-    background: url(../img/footer/page-top-bg.jpg) center/cover;
+.page-top-section-deleted{
+    background: url(../img/footer/page-top-bg-oct.jpg) center/cover;
     padding-top: 235px;
     padding-bottom: 40px;
     .page-top-nav {
