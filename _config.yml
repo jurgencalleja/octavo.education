@@ -63,7 +63,7 @@ hero_sass_slider:
 - image: img/carusel/s3.jpg
 hero_product_name: K12 Solutions <br> For a digital curriculum
 hero_product_text: Octavo delivers your curriculum on any OS and Browser.
-hero_product_image: < img src="/img/blank.png" alt="" data-echo="img/hero/hero-img2.png">
+hero_product_image: img/hero/hero-img2.png
 hero_product_btn_one_link: "#"
 hero_product_btn_one_text: Let us show you around
 hero_product_video_name: The most Creative <br> Theame ever in Business
