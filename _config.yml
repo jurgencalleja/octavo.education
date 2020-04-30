@@ -123,7 +123,8 @@ whitelist:
 
 feature_image_one: img/feature/octavof/digitaltextbooks.svg
 feature_title_one: Digital Textbooks
-feature_description_one: 'Description 1 - showing? '
+feature_description_one: 'Description 1 - showing?'
+relative_url: '/publishers'
 feature_image_two: img/feature/octavof/readingcontent.svg
 feature_title_two: Reading Content
 feature_description_two: Description 2 - showing?
@@ -144,35 +145,6 @@ statistics_description: Octavo places all the tools and resources you need at yo
   finger tips
 statistics_image: img/title-icon.png
 
-statistics_item_one_image: img/stat/octavos/difflearning.svg
-statistics_item_one_title: Enable differentiated teaching 
-statistics_item_one_link: "#"
-statistics_item_one_description: Educators are now able to build their own content
-  and present it in the same look and feel as professional publisher's content.
-statistics_item_two_image: img/stat/octavos/literacytools.svg
-statistics_item_two_title: Literacy Tools
-statistics_item_two_link: "#"
-statistics_item_two_description: Educators are now able to build their own content
-  and present it in the same look and feel as professional publisher's content.
-statistics_item_three_image: img/stat/octavos/customtextbk.svg
-statistics_item_three_title: Build custome textbooks
-statistics_item_three_link: "#"
-statistics_item_three_description: TXT
-
-statistics_item_four_image: img/stat/octavos/autoassess.svg
-statistics_item_four_title: Automated assessment 
-statistics_item_four_link: "#"
-statistics_item_four_description: TXT.
-statistics_item_five_image: img/stat/octavos/oneclickrep.svg
-statistics_item_five_title: One click reports
-statistics_item_five_link: "#"
-statistics_item_five_description: Educators are now able to build their own content
-  and present it in the same look and feel as professional publisher's content.
-statistics_item_six_image: img/stat/octavos/sso.svg
-statistics_item_six_title: Single Sign On (SSO)
-statistics_item_six_link: "#"
-statistics_item_six_description: TXT
-
 cta_title: Create an Octavo account and start setting up your own school now!
 cta_btn_link_one: "#"
 cta_btn_text_one: Learn How
@@ -185,19 +157,6 @@ unique_feature_description: Octavo was designed to offer the smoothest deployeme
 unique_feature_image: img/title-icon.png
 unique_feature_main_image:
 - image: img/carusel/deployedoctavo.png
-
-unique_feature_section_one_title: LTI Ready
-unique_feature_section_one_description: We all live in an age that belongs to the
-  young at heart. Life that is becoming extremely fast, day to day, also asks us to
-  remain.
-unique_feature_section_one_image: img/feature/octavof/lti.png
-unique_feature_section_one_link: "#"
-
-unique_feature_section_two_title: BYOD Friendly
-unique_feature_section_two_description: Vera sought out counseling with me because
-  her doctor advised her to discover the emotional causes of her chronic fatigue.
-unique_feature_section_two_image: img/feature/octavof/byod.png
-unique_feature_section_two_link: "#"
 
 important_points_title: Features that make us Stand Out
 important_points_description: The first is a non technical method which requires the
@@ -225,61 +184,61 @@ important_points:
   description: " Have you ever had a problem with a burned light? Thanks to the effort
     of Thomas Edison we no longer need to invent a light bulb. We just go to the store.
     \ "
-bands_slider:
-- image: img/brands/b1.png
-  link: "#"
-- image: img/brands/b2.png
-  link: "#"
-- image: img/brands/b3.png
-  link: "#"
-- image: img/brands/b4.png
-  link: "#"
-- image: img/brands/b5.png
-  link: "#"
-- image: img/brands/b6.png
-  link: "#"
-- image: img/brands/b7.png
-  link: "#"
-- image: img/brands/b8.png
-  link: "#"
-- image: img/brands/b9.png
-  link: "#"
-- image: img/brands/b10.png
-  link: "#"
-testimonials:
-- author: Emmanuel Grech
-  avatar: "/img/review/user.png"
-  position: CIO, Ministry for Education and Employment, Malta
-  quotes: Waiting on quote
-- author: Grazio Grixti
-  avatar: "/img/review/user.png"
-  position: Director (Digital Literacy & Transveral Skills), Ministry for Education
-    and Employment, Malta
-  quotes: Waiting on quote
-- author: Travor James
-  avatar: "/img/review/user.png"
-  position: Head of Marketing, Apple Inc.
-  quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
-    amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-    et dolore magna aliqua.
-- author: Travor James
-  avatar: "/img/review/user.png"
-  position: Head of Marketing, Apple Inc.
-  quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
-    amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-    et dolore magna aliqua.
-- author: Travor James
-  avatar: "/img/review/user.png"
-  position: Head of Marketing, Apple Inc.
-  quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
-    amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-    et dolore magna aliqua.
-- author: Travor James
-  avatar: "/img/review/user.png"
-  position: Head of Marketing, Apple Inc.
-  quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
-    amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-    et dolore magna aliqua.
+# bands_slider:
+# - image: img/brands/b1.png
+#   link: "#"
+# - image: img/brands/b2.png
+#   link: "#"
+# - image: img/brands/b3.png
+#   link: "#"
+# - image: img/brands/b4.png
+#   link: "#"
+# - image: img/brands/b5.png
+#   link: "#"
+# - image: img/brands/b6.png
+#   link: "#"
+# - image: img/brands/b7.png
+#   link: "#"
+# - image: img/brands/b8.png
+#   link: "#"
+# - image: img/brands/b9.png
+#   link: "#"
+# - image: img/brands/b10.png
+#   link: "#"
+# testimonials:
+# - author: Emmanuel Grech
+#   avatar: "/img/review/user.png"
+#   position: CIO, Ministry for Education and Employment, Malta
+#   quotes: Waiting on quote
+# - author: Grazio Grixti
+#   avatar: "/img/review/user.png"
+#   position: Director (Digital Literacy & Transveral Skills), Ministry for Education
+#     and Employment, Malta
+#   quotes: Waiting on quote
+# - author: Travor James
+#   avatar: "/img/review/user.png"
+#   position: Head of Marketing, Apple Inc.
+#   quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
+#     amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+#     et dolore magna aliqua.
+# - author: Travor James
+#   avatar: "/img/review/user.png"
+#   position: Head of Marketing, Apple Inc.
+#   quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
+#     amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+#     et dolore magna aliqua.
+# - author: Travor James
+#   avatar: "/img/review/user.png"
+#   position: Head of Marketing, Apple Inc.
+#   quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
+#     amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+#     et dolore magna aliqua.
+# - author: Travor James
+#   avatar: "/img/review/user.png"
+#   position: Head of Marketing, Apple Inc.
+#   quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
+#     amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+#     et dolore magna aliqua.
 faq-title: Select your Best Pricing
 faq-description: 'The first is a non technical method which requires the use of adware
   removal software. Download free adware and spyware removal software and use advanced
