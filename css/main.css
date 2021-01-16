@@ -832,8 +832,8 @@ th {
   background-image: -ms-linear-gradient(0deg, #141da2 0%, #9bd7d0 100%); }
 
 .genric-btn {
-  background: #f2f5fa;
-  color: #1e283c;
+  background: #20569C;
+  color: white;
   position: relative;
   display: inline-block;
   z-index: 1;

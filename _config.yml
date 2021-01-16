@@ -4,8 +4,8 @@ title: Your partner for digital curriculum
 email: info@octavo.education
 address: 'Octavo MT Ltd., 13 Giorgio Preca Street, San Gwann, Malta, '
 phone: 00356 79000552
-tagline: Octavo Education Supplies
-description: Octavo Education Description.
+tagline: Octavo Education
+description: Octavo Education.
 baseurl: ''
 url: https://127.0.0.1:4000
 twitter_username: 
@@ -22,93 +22,13 @@ google_analytics: ''
 disqus:
   shortname: ''
 hero: product
-hero_sass_name: We Made our <br> Software 100% Errorless
-hero_sass_text: The first is a non technical method which requires the use of adware
-  removal software. Download free adware and spyware removal software and use advanced
-  tools to help prevent getting infected.
-hero_sass_image: img/hero/hero-img.png
-hero_sass_btn_one_link: "#"
-hero_sass_btn_one_text: Start a project
-hero_sass_btn_two_link: "#"
-hero_sass_btn_two_text: " View Pricing "
-hero_saas_video_name: We Made our <br> Software 100% Errorless
-hero_saas_video_text: The first is a non technical method which requires the use of
-  adware removal software.  Download free adware and spyware removal software and
-  use advanced tools to help prevent  getting infected.
-hero_saas_video_image: img/mockup.png
-hero_saas_video_video: vdo/sass-bv.mp4
-hero_saas_video_btn_one_link: "#"
-hero_saas_video_btn_one_text: Browse free demo
-hero_sass_background_image_name: We Made our <br> Software 100% Errorless
-hero_sass_background_image_text: The first is a non technical method which requires
-  the use of adware removal software.  Download free adware and spyware removal software
-  and use advanced tools to help prevent  getting infected.
-hero_sass_background_image_image: img/mockup.png
-hero_sass_background_image_btn_one_link: "#"
-hero_sass_background_image_btn_one_text: Browse free demo
-hero_saas_fixed_image_name: We Made our <br> Software 100% Errorless
-hero_saas_fixed_image_text: The first is a non technical method which requires the
-  use of adware removal software.  Download free adware and spyware removal software
-  and use advanced tools to help prevent  getting infected.
-hero_saas_fixed_image_image: img/mockup.png
-hero_saas_fixed_image_btn_one_link: "#"
-hero_saas_fixed_image_btn_one_text: Browse free demo
-hero_sass_slider_name: We Made our <br> Software 100% Errorless
-hero_sass_slider_image: img/mockup.png
-hero_sass_slider_btn_one_link: "#"
-hero_sass_slider_btn_one_text: Browse free demo
-hero_sass_slider:
-- image: img/carusel/s1.jpg
-- image: img/carusel/s2.jpg
-- image: img/carusel/s3.jpg
 hero_product_name:  Octavo
 hero_product_text: For the Love of Reading <br> An online platform enabling readers, educators and publishers to thrive.
 hero_product_image: img/hero/hero-img2.png
 hero_product_btn_one_link: "#"
 hero_product_btn_one_text: Get Started
-hero_product_video_name: The most Creative <br> Theame ever in Business
-hero_product_video_text: The first is a non technical method which requires the use
-  of adware removal software. ownload free adware and spyware removal
-hero_product_video_image: img/iPhoneX.png
-hero_product_video_video: vdo/app-bv.mp4
-hero_product_video_btn_one_link: "#"
-hero_product_video_btn_one_text: Browse free demo
-hero_product_background_image_name: The most Creative <br> Theame ever in Business
-hero_product_background_image_text: The first is a non technical method which requires
-  the use of adware removal software. Download free adware and spyware removal software
-  and use advanced tools to help prevent getting infected.
-hero_product_background_image_image: img/iPhoneX.png
-hero_product_background_image_btn_one_link: "#"
-hero_product_background_image_btn_one_text: Browse free demo
-hero_product_fixed_image_name: The most Creative <br> Theame ever in Business
-hero_product_fixed_image_text: The first is a non technical method which requires
-  the use of adware removal software.  Download free adware and spyware removal software
-  and use advanced tools to help prevent  getting infected.
-hero_product_fixed_image_image: img/iPhoneX.png
-hero_product_fixed_image_btn_one_link: "#"
-hero_product_fixed_image_btn_one_text: Browse free demo
-hero_product_slider_name: The most Creative <br> Theame ever in Business
-hero_product_slider_text: The first is a non technical method which requires the use
-  of adware removal software. Download free adware and spyware removal software and
-  use advanced tools to help prevent getting infected.
-hero_product_slider_image: img/iPhoneX.png
-hero_product_slider_btn_one_link: "#"
-hero_product_slider_btn_one_text: Browse free demo
-hero_product_slider:
-- image: img/carusel/a1.jpg
-- image: img/carusel/a2.jpg
-- image: img/carusel/a3.jpg
-hero_blog_slider:
-- image: img/hero/hero-blog.jpg
-  author: Sir Alex James
-  title: The Idea Of God Is <br /> Not Henceforth Relevant
-  category: Technical
-- image: img/hero/hero-blog.jpg
-  author: Sir Alex James
-  title: The Idea Of God Is <br /> Not Henceforth Relevant
-  category: Art &amp; Fantacy
 
-  exclude:
+exclude:
 - Gemfile
 - Gemfile.lock
 - node_modules
@@ -120,17 +40,6 @@ whitelist:
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-include-cache
-
-feature_image_one: img/feature/octavof/digitaltextbooks.svg
-feature_title_one: Digital Textbooks
-feature_description_one: 'Description 1 - showing?'
-relative_url: '/publishers'
-feature_image_two: img/feature/octavof/readingcontent.svg
-feature_title_two: Reading Content
-feature_description_two: Description 2 - showing?
-feature_image_three: img/feature/octavof/multiplepub.svg
-feature_title_three: Multiple Publishers
-feature_description_three: Description 3 - showing?
 
 marketing_title: Track your Students’ Progress
 marketing_description: With its hierarchical system, Octavo enables teachers to monitor students’ progress and assign suitable texts for different levels.
@@ -157,32 +66,7 @@ unique_feature_image: img/title-icon.png
 unique_feature_main_image:
 - image: img/carusel/deployedoctavo.png
 
-important_points_title: Features that make us Stand Out
-important_points_description: The first is a non technical method which requires the
-  use of adware removal software. Download free adware and spyware removal software
-  and use advanced tools getting infected.
-important_points_image: img/title-icon.png
-important_points:
-- title: Search <br> Management<br> System
-  icon: img/points/i1.png
-  description: Staying calm, composed and maintaining strong self esteem in today’s
-    tough environment can be difficult but is not impossible if you follow a few simple
-    guidelines.
-- title: Data <br> Synchronization <br> Options
-  icon: img/points/i2.png
-  description: " We all live in an age that belongs to the young at heart. Life that
-    is becoming extremely fast, day to day, also asks us to remain physically young.
-    Young at heart. "
-- title: Team <br> Management <br> Facilities
-  icon: img/points/i3.png
-  description: " Increasing prosperity in our lives can be accomplished by having
-    the right frame of mind. The truth is, our thoughts are very powerful. They are
-    capable of influencing. "
-- title: Schedule <br> Adjustment <br> System
-  icon: img/points/i4.png
-  description: " Have you ever had a problem with a burned light? Thanks to the effort
-    of Thomas Edison we no longer need to invent a light bulb. We just go to the store.
-    \ "
+
 # bands_slider:
 # - image: img/brands/b1.png
 #   link: "#"
@@ -214,81 +98,8 @@ important_points:
 #   position: Director (Digital Literacy & Transveral Skills), Ministry for Education
 #     and Employment, Malta
 #   quotes: Waiting on quote
-# - author: Travor James
-#   avatar: "/img/review/user.png"
-#   position: Head of Marketing, Apple Inc.
-#   quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
-#     amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-#     et dolore magna aliqua.
-# - author: Travor James
-#   avatar: "/img/review/user.png"
-#   position: Head of Marketing, Apple Inc.
-#   quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
-#     amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-#     et dolore magna aliqua.
-# - author: Travor James
-#   avatar: "/img/review/user.png"
-#   position: Head of Marketing, Apple Inc.
-#   quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
-#     amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-#     et dolore magna aliqua.
-# - author: Travor James
-#   avatar: "/img/review/user.png"
-#   position: Head of Marketing, Apple Inc.
-#   quotes: Who are in extremely love with eco friendly system. Lorem ipsum dolor sit
-#     amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-#     et dolore magna aliqua.
-faq-title: Select your Best Pricing
-faq-description: 'The first is a non technical method which requires the use of adware
-  removal software. Download free adware and spyware removal software and use advanced
-  tools getting infected. '
-faq_general_issues_01_title: Dude You Re Getting A Telescope
-faq_general_issues_01_description: Nunc placerat mi id nisi interdum mollis. Praesent
-  pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit
-  metus eget diam. Proin ac metus diam.
-faq_general_issues_02_title: The Basics Of Buying A Telescope
-faq_general_issues_02_description: Donec nec justo eget felis facilisis fermentum.
-  Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. leo
-  quam aliquet diam, congue laoreet elit metus eget diam.
-faq_general_issues_03_title: Astronomy Binoculars A Great Alternative
-faq_general_issues_03_description: Lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.
-faq_general_issues_04_title: Do Your Self Realizations Quickly Fade
-faq_general_issues_04_description: Lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.
-faq_general_issues_05_title: Success Steps For Your Personal Or Business Life
-faq_general_issues_05_description: Lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.
-faq_support_issues_01_title: Success Steps For Your Personal Or Business Life
-faq_support_issues_01_description: Lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.
-faq_support_issues_02_title: Dude You Re Getting A Telescope
-faq_support_issues_02_description: Nunc placerat mi id nisi interdum mollis. Praesent
-  pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit
-  metus eget diam. Proin ac metus diam.
-faq_support_issues_03_title: The Basics Of Buying A Telescope
-faq_support_issues_03_description: Donec nec justo eget felis facilisis fermentum.
-  Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. leo
-  quam aliquet diam, congue laoreet elit metus eget diam.
-faq_support_issues_04_title: Astronomy Binoculars A Great Alternative
-faq_support_issues_04_description: 
-faq_refund_issues_01_title: The Basics Of Buying A Telescope
-faq_refund_issues_01_description: Donec nec justo eget felis facilisis fermentum.
-  Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. leo
-  quam aliquet diam, congue laoreet elit metus eget diam.
-faq_refund_issues_02_title: Astronomy Binoculars A Great Alternative
-faq_refund_issues_02_description: Lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.
-faq_refund_issues_03_title: Do Your Self Realizations Quickly Fade
-faq_refund_issues_03_description: Lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.
-faq_refund_issues_04_title: Success Steps For Your Personal Or Business Life
-faq_refund_issues_04_description: Lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. Proin ac metus diam.
-blog-title: Latest Posts from our Blog
-blog-description: The first is a non technical method which requires the use of adware
-  removal software. Download free adware and spyware removal software and use advanced
-  tools getting infected.
+
+
 contact_title:  Ready to Get Started?
 contact_description: Drop us a line to discuss your project, we’re always happy to help!
 contact_image: img/title-icon.png
@@ -315,7 +126,7 @@ footer_twitter_link: https://twitter.com/Octavoapp
 mailchimp:
   user-id: 
   list-id: 
-copyright_text: Copyright © 2019 All rights reserved to
+copyright_text: Copyright © 2021 All rights reserved to Octavo MT Ltd.
 company_url: "#"
 google_site_verification: 
 bing_site_verification: 
