@@ -61,11 +61,11 @@ hero_sass_slider:
 - image: img/carusel/s1.jpg
 - image: img/carusel/s2.jpg
 - image: img/carusel/s3.jpg
-hero_product_name: K12 Solutions <br> For a digital curriculum
-hero_product_text: Octavo delivers your curriculum on any OS and Browser.
+hero_product_name:  Octavo
+hero_product_text: For the Love of Reading <br> An online platform enabling readers, educators and publishers to thrive.
 hero_product_image: img/hero/hero-img2.png
 hero_product_btn_one_link: "#"
-hero_product_btn_one_text: Let us show you around
+hero_product_btn_one_text: Get Started
 hero_product_video_name: The most Creative <br> Theame ever in Business
 hero_product_video_text: The first is a non technical method which requires the use
   of adware removal software. ownload free adware and spyware removal
@@ -132,9 +132,8 @@ feature_image_three: img/feature/octavof/multiplepub.svg
 feature_title_three: Multiple Publishers
 feature_description_three: Description 3 - showing?
 
-marketing_title: Digitise your Curriculum
-marketing_description: Offering your learners a measurable and engaging digital curriculum
-  has never been this simple.
+marketing_title: Track your Students’ Progress
+marketing_description: With its hierarchical system, Octavo enables teachers to monitor students’ progress and assign suitable texts for different levels.
 marketing_image_one: "/img/marketing/measuresuccess2.png"
 marketing_image_two: "/img/marketing/measuresuccess.png"
 marketing_btn_text: Learn More
@@ -145,11 +144,11 @@ statistics_description: Octavo places all the tools and resources you need at yo
   finger tips
 statistics_image: img/title-icon.png
 
-cta_title: Create an Octavo account and start setting up your own school now!
+cta_title: Set up your Organisation in Minutes
 cta_btn_link_one: "#"
-cta_btn_text_one: Learn How
+cta_btn_text_one: Sign Up
 cta_btn_link_two: "#"
-cta_btn_text_two: Get Started
+cta_btn_text_two: Learn More
 unique_feature_title: Deploying Octavo in your school - A piece of cake!
 unique_feature_description: Octavo was designed to offer the smoothest deployement
   and roll out experience possible.  Enrolling a school or a whole district takes
@@ -290,9 +289,8 @@ blog-title: Latest Posts from our Blog
 blog-description: The first is a non technical method which requires the use of adware
   removal software. Download free adware and spyware removal software and use advanced
   tools getting infected.
-contact_title: Whenever You Need, Just Send a Message
-contact_description: We're interested in learning more about your project and needs;
-  just drop us a line and we'll get in touch
+contact_title:  Ready to Get Started?
+contact_description: Drop us a line to discuss your project, we’re always happy to help!
 contact_image: img/title-icon.png
 contact_email: hi@octavo.education
 contact_phone: 00 (356) ?
