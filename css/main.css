@@ -3754,7 +3754,8 @@ dl.accordion.time-line:before {
 # Footer
 --------------------------------------------------------------*/
 .footer-area {
-  padding: 100px 0px; }
+  padding: 100px 0px;
+  background: gray; }
   .footer-area .social-icons a:hover {
     background: #fff !important;
     color: #20569c !important; }
