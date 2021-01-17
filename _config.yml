@@ -22,8 +22,8 @@ google_analytics: ''
 disqus:
   shortname: ''
 hero: product
-hero_product_name:  Octavo
-hero_product_text: For the Love of Reading <br> An online platform enabling readers, educators and publishers to thrive.
+hero_product_text1: For the Love of Reading
+hero_product_text2: An online platform enabling readers, educators and publishers to thrive.
 hero_product_image: img/hero/hero-img2.png
 hero_product_btn_one_link: "#"
 hero_product_btn_one_text: Get Started
