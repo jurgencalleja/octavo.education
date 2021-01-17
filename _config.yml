@@ -48,9 +48,8 @@ marketing_image_two: "/img/marketing/measuresuccess.png"
 marketing_btn_text: Learn More
 marketing_btn_link: "#"
 
-statistics_title: Octavo makes learning fun for both educator and learner
-statistics_description: Octavo places all the tools and resources you need at your
-  finger tips
+statistics_title: Inspire a Love for Learning
+statistics_description: Creative and engaging lessons, tailored to students’ needs!
 statistics_image: img/title-icon.png
 
 cta_title: Set up your Organisation in Minutes
@@ -58,6 +57,12 @@ cta_btn_link_one: "#"
 cta_btn_text_one: Sign Up
 cta_btn_link_two: "#"
 cta_btn_text_two: Learn More
+
+cta2_title: Any questions?
+cta2_btn_link_one: "contact"
+cta2_btn_text_one: Get in Touch!
+
+
 unique_feature_title: Deploying Octavo in your school - A piece of cake!
 unique_feature_description: Octavo was designed to offer the smoothest deployement
   and roll out experience possible.  Enrolling a school or a whole district takes
