@@ -45,7 +45,26 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-5 col-md-6 contact-right">
+                    <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/5c89d7a90b2b21e7b08fc86ef5d7ea55?embedded=1"></div>
+
+                    <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+                    <script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
+
+                    <!-- Get notified when the form is submitted, add your own code below: -->
+                    <script>
+                    const formkeepEmbed = document.querySelector('#formkeep-embed')
+
+                    formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
+                    console.log('Submitting form...')
+                    })
+
+                    formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
+                    console.log('Submitted form...')
+                    })
+                    </script>
+                    <!--
                     <form class="form-area contact-form" id="myForm" action="" method="post">
                         <label for="">Your Name</label>
                         <input name="name" autocomplete="name" placeholder="Enter your name" onfocus="this.placeholder = ''"
@@ -71,6 +90,7 @@
                             <div class="alert-msg"></div>
                         </div>
                     </form>
+                -->
 
                 </div>
             </div>
