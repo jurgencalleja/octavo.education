@@ -116,6 +116,7 @@ footer_about_link_one_text: Company
 footer_about_link_one_link: "#"
 footer_about_link_two_text: News
 footer_about_link_three_text: Blog
+footer_about_link_three_link: "https://octavo.blog"
 footer_resources_link_heading: Services
 footer_resources_link_one_text: Educators
 footer_resources_link_one_link: "#"
