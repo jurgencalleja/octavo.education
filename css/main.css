@@ -1286,6 +1286,7 @@ th {
   left: 0;
   top: 0;
   right: 0;
+  background: #fff;
   transition: all 0.5s;
   z-index: 997; }
   #header .genric-btn:hover {
