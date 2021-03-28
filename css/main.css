@@ -1286,6 +1286,7 @@ th {
   left: 0;
   top: 0;
   right: 0;
+  background: #fff;
   transition: all 0.5s;
   z-index: 997; }
   #header .genric-btn:hover {
@@ -2139,7 +2140,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       margin-bottom: 50px; } }
 
 .version2 .hero-section {
-  background: url(../img/hero/octavo-hero-bg.svg) no-repeat bottom center/cover; }
+  background: url(../img/new_images/hero/Octavo_Hero_02.png ) no-repeat bottom center/cover; }
 .version2 .content-wrap h1 {
   color: #222; }
   @media (max-width: 991px) {
