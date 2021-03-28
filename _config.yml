@@ -113,18 +113,22 @@ contact_phone: 00 (356) ?
 contact_address: Octavo
 footer_title: About Us
 footer_about_link_one_text: Company
-footer_about_link_one_link: "#"
+footer_about_link_one_link: "About"
 footer_about_link_two_text: News
+footer_about_link_two_link: https://octavo.blog
 footer_about_link_three_text: Blog
+footer_about_link_three_link: https://octavo.blog
 footer_resources_link_heading: Services
 footer_resources_link_one_text: Educators
-footer_resources_link_one_link: "#"
+footer_resources_link_one_link: "Education"
 footer_resources_link_two_text: Publishers
+footer_resources_link_two_link: "Publishers"
 footer_resources_link_three_text: Libraries
-footer_resources_link_four_text: Retailers
+footer_resources_link_three_link: "Publishers"
+footer_resources_link_four_text: 
 footer_features_link_heading: Need help?
 footer_features_link_one_text: Guides
-footer_features_link_one_link: "#"
+footer_features_link_one_link: https://www.octavo.help
 footer_features_link_two_text: Contact US
 footer_facebook_link: https://www.facebook.com/Octavoapp/
 footer_twitter_link: https://twitter.com/Octavoapp
